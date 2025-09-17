@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Lemar!
 
-<!--
-**xdlemar/xdlemar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT student from the Philippines  
+🧭 Interested in full-stack web (PHP/JS), clean UI, and modern tooling
 
-Here are some ideas to get you started:
+## 🌱 Currently learning
+React • Node.js • Tailwind CSS • MySQL • Postgre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach me
+[Facebook](https://facebook.com/mak.gobe.1) • [Instagram](https://instagram.com/omkayyy_)
+
+---
+
+### 🏆 GitHub Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=xdlemar&theme=onedark&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📊 Stats
+![Mak's GitHub stats](https://github-readme-stats.vercel.app/api?username=xdlemar&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdlemar&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=xdlemar&hide_border=true)
+
