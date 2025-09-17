@@ -9,7 +9,7 @@ React • Node.js • Tailwind CSS • MySQL • Postgre
 ---
 
 ### 🏆 GitHub Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=xdlemar&theme=onedark&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📊 Stats
 ![Mak's GitHub stats](https://github-readme-stats.vercel.app/api?username=xdlemar&show_icons=true&theme=transparent)
