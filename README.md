@@ -6,9 +6,6 @@
 ## 🌱 Currently learning
 React • Node.js • Tailwind CSS • MySQL • Postgre
 
-## 📫 Reach me
-[Facebook](https://facebook.com/mak.gobe.1) • [Instagram](https://instagram.com/omkayyy_)
-
 ---
 
 ### 🏆 GitHub Achievements
