@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Lemar!
 
 🎓 IT student from the Philippines  
-🧭 Interested in full-stack web (PHP/JS), clean UI, and modern tooling
 
 ## 🌱 Currently learning
 React • Node.js • Laravel • Tailwind CSS • Postgre
